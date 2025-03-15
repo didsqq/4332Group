@@ -74,5 +74,10 @@ namespace _4332Project
         {
             new Mikhaylova4332().Show();
         }
+
+        private void GaripovButton_Click(object sender, RoutedEventArgs e)
+        {
+            new Garipov_4332().Show();
+        }
     }
 }

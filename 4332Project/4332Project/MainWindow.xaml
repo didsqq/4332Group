@@ -30,6 +30,8 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
+        <Button Grid.Row="2" Content="Гарипов" Width="100" Height="30" Click="GaripovButton_Click" />
+
         <Button  Grid.Row="16" Width="200" x:Name="SidorovButton" Content="О авторе" Click="SidorovButton_Click"/>
         <Button Grid.Row="4" Width="200" x:Name="ZaripovButton" Content="Зарипов" Click="ZaripovButton_OnClick"/>
         <Button Grid.Row="1" Content="Новиков" Width="100" Height="30" Click="ShowAuthorInfo_Click" />
