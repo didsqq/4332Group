@@ -250,3 +250,8 @@ C:\Users\Адель\Desktop\4332Group\4332Project\4332Project\bin\Debug\ru\Entit
 C:\Users\Адель\Desktop\4332Group\4332Project\4332Project\obj\Debug\4332Project.csproj.ResolveComReference.cache
 C:\Users\Адель\Desktop\4332Group\4332Project\4332Project\obj\Debug\4332Project_Content.g.cs
 C:\Users\Адель\Desktop\4332Group\4332Project\4332Project\obj\Debug\4332Proj.B427E62E.Up2Date
+C:\Users\Адель\Desktop\4332Group\4332Project\4332Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Адель\Desktop\4332Group\4332Project\4332Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Адель\Desktop\4332Group\4332Project\4332Project\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Адель\Desktop\4332Group\4332Project\4332Project\bin\Debug\Xceed.Drawing.NET.dll
+C:\Users\Адель\Desktop\4332Group\4332Project\4332Project\bin\Debug\Xceed.Words.NET.dll

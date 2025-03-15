@@ -1,0 +1,86 @@
+[
+  {
+    "IdServices": 1,
+    "NameServices": "Прокат лыж",
+    "TypeOfService": "Прокат",
+    "CodeService": "8HFJHG443",
+    "Cost": 1000
+  },
+  {
+    "IdServices": 2,
+    "NameServices": "Прокат лыжных палок",
+    "TypeOfService": "Прокат",
+    "CodeService": "87FDJKHJ",
+    "Cost": 100
+  },
+  {
+    "IdServices": 3,
+    "NameServices": "Прокат сноуборда",
+    "TypeOfService": "Прокат",
+    "CodeService": "JUR8R",
+    "Cost": 1200
+  },
+  {
+    "IdServices": 4,
+    "NameServices": "Прокат обуви для сноуборда",
+    "TypeOfService": "Прокат",
+    "CodeService": "JKFBJ09",
+    "Cost": 400
+  },
+  {
+    "IdServices": 5,
+    "NameServices": "Прокат шлема",
+    "TypeOfService": "Прокат",
+    "CodeService": "63748HF",
+    "Cost": 300
+  },
+  {
+    "IdServices": 6,
+    "NameServices": "Прокат защитных подушек для сноубордистов",
+    "TypeOfService": "Прокат",
+    "CodeService": "JFH7382",
+    "Cost": 300
+  },
+  {
+    "IdServices": 7,
+    "NameServices": "Прокат очков для лыжников",
+    "TypeOfService": "Прокат",
+    "CodeService": "OIJNB12",
+    "Cost": 150
+  },
+  {
+    "IdServices": 8,
+    "NameServices": "Прокат ватрушки",
+    "TypeOfService": "Прокат",
+    "CodeService": "BSFBHV63",
+    "Cost": 200
+  },
+  {
+    "IdServices": 9,
+    "NameServices": "Обучение катанию на горных лыжах",
+    "TypeOfService": "Обучение",
+    "CodeService": "HJBUJE21J",
+    "Cost": 1000
+  },
+  {
+    "IdServices": 10,
+    "NameServices": "Обучение катанию на сноуборде",
+    "TypeOfService": "Обучение",
+    "CodeService": "DHBGFY563",
+    "Cost": 1000
+  },
+  {
+    "IdServices": 11,
+    "NameServices": "Подъем на 1 уровень",
+    "TypeOfService": "Подъем",
+    "CodeService": "JHVSJF6",
+    "Cost": 500
+  },
+  {
+    "IdServices": 12,
+    "NameServices": "Подъем на 2  уровень",
+    "TypeOfService": "Подъем",
+    "CodeService": "DJHGBS982",
+    "Cost": 750
+  }
+]
