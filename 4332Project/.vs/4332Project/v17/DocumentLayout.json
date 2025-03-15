@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\\u0430\u0434\u0435\u043B\u044C\\desktop\\4332group\\4332project\\4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\\u0430\u0434\u0435\u043B\u044C\\desktop\\4332group\\4332project\\4332project\\students\\garipov_4332.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\students\\garipov_4332.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\\u0430\u0434\u0435\u043B\u044C\\desktop\\4332group\\4332project\\4332project\\students\\garipov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\students\\garipov_4332.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\\u0430\u0434\u0435\u043B\u044C\\desktop\\4332group\\4332project\\4332project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|c:\\users\\\u0430\u0434\u0435\u043B\u044C\\desktop\\4332group\\4332project\\4332project\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3404EB-03E9-4E6B-963B-301B745734D8}|4332Project\\4332Project.csproj|solutionrelative:4332project\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,44 +29,41 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "4332Project\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\Model1.Context.cs",
+              "RelativeToolTip": "4332Project\\Model1.Context.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:59:35.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "4332Project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\MainWindow.xaml.cs",
-              "RelativeToolTip": "4332Project\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAADwv08AAAAdAAAA",
+              "Title": "Students\\Garipov_4332.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\Students\\Garipov_4332.xaml.cs",
+              "RelativeDocumentMoniker": "4332Project\\Students\\Garipov_4332.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\Students\\Garipov_4332.xaml.cs",
+              "RelativeToolTip": "4332Project\\Students\\Garipov_4332.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T06:23:57.931Z",
+              "WhenOpened": "2025-03-15T12:56:56.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "4332Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\MainWindow.xaml",
-              "RelativeToolTip": "4332Project\\MainWindow.xaml",
+              "Title": "Garipov_4332.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\Students\\Garipov_4332.xaml",
+              "RelativeDocumentMoniker": "4332Project\\Students\\Garipov_4332.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\Students\\Garipov_4332.xaml",
+              "RelativeToolTip": "4332Project\\Students\\Garipov_4332.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-11T16:29:26.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\App.xaml",
-              "RelativeDocumentMoniker": "4332Project\\App.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u0435\u043B\u044C\\Desktop\\4332Group\\4332Project\\4332Project\\App.xaml",
-              "RelativeToolTip": "4332Project\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-15T06:22:42.593Z",
+              "WhenOpened": "2025-03-15T12:40:49.266Z",
               "EditorCaption": ""
             }
           ]

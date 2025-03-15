@@ -8,5 +8,7 @@
         Title="Zaripov_4332" Height="450" Width="800">
     <Grid>
         <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50">Гарипов А.М. 4332</TextBlock>
+        <Button Content="Импорт" HorizontalAlignment="Left" Margin="187,302,0,0" VerticalAlignment="Top" Height="40" Width="177" Click="Button_Click"/>
+        <Button Content="Экспорт" HorizontalAlignment="Left" Margin="436,302,0,0" VerticalAlignment="Top" Height="40" Width="177" Click="Button_Click_1"/>
     </Grid>
 </Window>
